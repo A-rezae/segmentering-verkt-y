@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Venv og verktøy
+.venv/
+venv/
+env/
+
+# Modeller, video, store filer
+*.pth
+*.pt
+*.pkl
+*.mp4
+*.mov
+*.avi
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
