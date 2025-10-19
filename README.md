@@ -135,9 +135,13 @@ Vi bruker denne modellen til å hente meningsfulle features som kan brukes vider
 - **Skole:** Viken Fagskole  
 - **Student:** Ahmad Rezae  
 - **År:** 2025  
-- **Veileder:** [Shahin Ostadahmadi]  
+- **Veileder:** Shahin Kamil Ostadahmadi 
 
 ---
+
+> 📌 Merk: Notebooken (`foreground_segmentation.ipynb`) er større enn 20 MB, og GitHub kan derfor ikke vise den direkte i nettleseren.  
+> For å se innholdet, last ned repoet som ZIP og åpne notebooken lokalt i Jupyter Notebook.
+
 
 ## 📜 Kilder
 - Meta AI Research – [DINOv3: Self-supervised learning with Vision Transformers](https://github.com/facebookresearch/dinov3)  
